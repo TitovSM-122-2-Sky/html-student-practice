@@ -1,0 +1,48 @@
+body {
+    font-size: 24px;
+}
+p.red {
+color: red;
+}
+p.red {
+  color: red;  
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+   font-weight: bold;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+li.blue {
+    color: blue;
+}
+li.orange {
+    color: orange;
+}
+span.word-size:nth-child(1) {
+    font-size: xx-small;
+}
+span.word-size:nth-child(2) {
+    font-size: x-small;
+}
+span.word-size:nth-child(3) {
+ font-size: small;   
+}
+span.word-size:nth-child(4) {
+font-size: medium;
+}
+span.word-size:nth-child(5) {
+font-size: large;
+}
+span.word-size:nth-child(6) {
+    font-size: x-large;
+}
+span.word-size:nth-child(7) {
+    font-size: xx-large;
+}
